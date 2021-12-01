@@ -1,0 +1,10 @@
+#url to crawl
+urls = http://127.0.0.1:5500/uneti/demo.html
+same.domain = true
+output.type = file
+output.folder = D:/output2/
+output.file = E:/uneti.txt
+max.item.check = 10000
+id.containers = wrapper_container,body
+class.containers = container,content,pContent,main
+
